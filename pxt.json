@@ -1,5 +1,6 @@
 {
     "name": "Prueba tus reflejos_Audrey Adela Berrocal Reynoso",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
